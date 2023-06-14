@@ -1,7 +1,8 @@
 # MachEight Challenge
 
-This project was created with Java language, and version 17
-I develop the code using the tool [Intellij IDE](https://www.jetbrains.com/idea/)
+This project was created with Java language, specifically with Java 17 version.
+
+I developed the code using the tool [Intellij IDE](https://www.jetbrains.com/idea/)
 
 
 ## How to run?
